@@ -3,7 +3,7 @@ const React = require('react')
 function Index (props) {
     return (
         <div>
-            <h1>Captains Logs</h1>
+            <h1>Captains Log</h1>
             <a href="/logs/new">Create A New Log Here</a>
             <ul>
                 {
